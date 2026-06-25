@@ -1,0 +1,19 @@
+# Core scientific libraries
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Machine learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Quantum computing
+qiskit>=0.45.0
+qiskit-machine-learning>=0.7.0
+
+# Jupyter notebooks (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
