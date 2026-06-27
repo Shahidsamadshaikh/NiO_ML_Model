@@ -3,3 +3,13 @@
 ## Classical and Quantum Kernel Model for Band gap prediction of Bulk NiO(Nickel Oxide)
 
 ### Overview 
+##### This Repository cantained the Trained Classical and Quantum Kernel Model of band gap for NiO(Nickel oxide) 
+
+**Key Results:**
+| Model | R² (LOOCV) | RMSE (eV) | MAE (eV) |
+|-------|------------|-----------|----------|
+| Classical RBF Kernel | 0.9834 | 0.0336 | 0.0336 |
+| Quantum Kernel (2-qubit) | 0.9775 | 0.0391 | 0.0391 |
+
+**Paper:** *"Comparative Investigation of Classical and Quantum Kernel Methods for DFT+U Band Gap Prediction in Strongly Correlated NiO"* – Submitted to *Nature Computational Materials*.
+
