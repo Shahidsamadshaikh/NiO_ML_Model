@@ -21,5 +21,5 @@
 ### 2) scripts 
 ##### scripts repository consist of both classical and Quantum model python code 
 ### 3) Result
-##### Result Repository consist of prediction value of band gap by both classical and Quantum kernel using unkown value of U 
+##### Result Repository consist of plot of prediction value of band gap by both classical and Quantum kernel using unkown value of U from 5 eV to 6.8 eV 
 
