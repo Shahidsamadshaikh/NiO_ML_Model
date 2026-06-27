@@ -23,3 +23,18 @@
 ### 3.Result/
 ##### Result folder consist of plot of prediction value of band gap by both classical and Quantum kernel using unknown value of U from 5 eV to 6.8 eV 
 
+## Citation
+If you use this code, please cite:
+> Shahid, S. S. & Kale, R. B. Classical and Quantum Kernel Models for Band Gap Prediction of Bulk NiO. *Zenodo* (2026). https://doi.org/10.5281/zenodo.20963050
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+Shahid Samad Shaikh , Prof .R.B kale
+Department of Physics, Dr. Homi Bhabha State University, Institute of Science (Mumbai)  
+Email: shahidshaikh010703@gmail.com
