@@ -13,3 +13,11 @@
 
 **Paper:** *"Comparative Investigation of Classical and Quantum Kernel Methods for DFT+U Band Gap Prediction in Strongly Correlated NiO"* – Submitted to *Nature Computational Materials*.
 
+
+## Structure of Repository 
+#### Repostory contained 3 important Folder 1) models 2)scripts 3) Result
+### model
+##### model Repository consist of both classical and Quantum kernel model in .pkl format 
+### 2) scripts 
+##### scripts repository consist of both classical and Quantum model python code 
+
