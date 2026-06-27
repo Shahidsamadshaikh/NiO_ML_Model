@@ -16,7 +16,7 @@
 
 ## Structure of Repository 
 #### Repository contained 3 important Folder 1) models 2)scripts 3) Result
-### 1)model
+### 1)models
 ##### model Repository consist of both classical and Quantum kernel model in .pkl format 
 ### 2) scripts 
 ##### scripts repository consist of both classical and Quantum model python code 
