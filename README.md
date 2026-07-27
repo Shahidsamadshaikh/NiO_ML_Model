@@ -11,7 +11,6 @@
 | Classical RBF Kernel | 0.9834 | 0.0336 | 0.0336 |
 | Quantum Kernel (2-qubit) | 0.9775 | 0.0391 | 0.0391 |
 
-**Paper:** *"Comparative Investigation of Band gaps in Strongly Correlated Quantum Material NiO(Nickel oxide) using Classical and Quantum kernels from DFT+U"* – Submitted to *Nature Computational Materials*.
 
 
 ## Structure of Repository 
