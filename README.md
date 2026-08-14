@@ -14,12 +14,12 @@
 
 
 ## Structure of Repository 
-#### Repository contained 3 important folders 1) models 2)scripts 3) Result
-### 1.models/
+##Repository contained 3 important folders 1) models 2)scripts 3) Result
+### 1.models
 ##### models folder consist of both classical and Quantum kernel model in .pkl format 
-### 2,scripts/ 
+### 2,scripts
 ##### scripts folder consist of both classical and Quantum model python code 
-### 3.Result/
+### 3.Result
 ##### Result folder consist of plot of prediction value of band gap by both classical and Quantum kernel using unknown value of U from 5 eV to 6.8 eV 
 
 ## Citation
