@@ -1,6 +1,6 @@
 # NiO_ML_Model
-[[DOI](https://zenodo.org/badge/1279919903.svg)](https://doi.org/10.5281/zenodo.20963050)
-## Classical and Quantum Kernel Model for Band gap prediction of Bulk NiO(Nickel Oxide)
+[![DOI](https://zenodo.org/badge/1279919903.svg)](https://doi.org/10.5281/zenodo.20963050)
+## Classical and Quantum Kernel Model for Band gap prediction of Bulk NiO (Nickel Oxide)
 
 ### Overview 
 ##### This Repository cantained the Trained Classical and Quantum Kernel Model of band gap for NiO(Nickel oxide) 
